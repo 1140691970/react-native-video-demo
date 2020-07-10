@@ -1,0 +1,31 @@
+{
+  "name": "react-native-video-demo",
+  "version": "1.0.0",
+  "main": "./src/index",
+  "description": "react-native-video UI",
+  "homepage": "https://github.com/1140691970/react-native-video-demo",
+  "author": "1140691970 <qq1140691970@outlook.com> (github.com/1140691970)",
+  "keywords": [
+    "react",
+    "native",
+    "video",
+    "player",
+    "slider",
+    "orientation",
+    "ios",
+    "android"
+  ],
+  "peerDependencies": {
+    "react": ">=15.0.0",
+    "react-native": "*"
+  },
+  "dependencies": {
+    "react-native-orientation-locker": "^1.1.8",
+    "react-native-slider": "^0.11.0",
+    "react-native-video": "^4.4.5"
+  },
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/Grewer/react-native-easy-video/issues"
+  }
+}
